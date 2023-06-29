@@ -1,0 +1,128 @@
+.text-p {
+  color: #e1b237;
+  font-size: 40px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+}
+
+.stepper {
+  margin-top: 61px;
+  margin-bottom: 44px;
+}
+.title-booking {
+  color: #fff;
+  font-size: 30px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.subtitle-booking {
+  color: #d9d9d9;
+  font-size: 25px;
+  font-family: poppins;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.form-booking label {
+  color: #fff;
+  font-size: 25px;
+  font-family: poppins;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 30px;
+}
+
+.form-booking .input-group {
+  background-color: white;
+}
+.price-book {
+  color: #fff;
+  font-size: 20px;
+  font-family: poppins;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.brand-book {
+  color: #fff;
+  font-size: 20px;
+  font-family: poppins;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.form-booking .input-group .form-control {
+  border: 0;
+  background: #f5f6f8;
+  border-radius: 10px;
+  outline: 0;
+  box-shadow: none;
+  padding-top: 0.575rem;
+  padding-bottom: 0.575rem;
+  margin-bottom: 20px;
+}
+.form-booking .input-group .custom-file .custom-file-input {
+  border: 0;
+  background: #f5f6f8;
+  border-radius: 10px;
+  outline: 0;
+  box-shadow: none;
+  padding-top: 0.575rem;
+  padding-bottom: 0.575rem;
+  margin-bottom: 20px;
+}
+
+.form-booking .input-group .form-control::placeholder {
+  background: #f5f6f8;
+  margin-bottom: 20px;
+}
+
+.btn-continue-booking {
+  border: 0;
+  color: #000000;
+  background: #fcbb3a;
+  border-radius: 5px;
+}
+.btn-continue-booking:hover {
+  color: #000000;
+  background: #f0aa1e;
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.25);
+}
+
+.btn-cancel-booking {
+  margin-top: 5px;
+  border: 0;
+  color: #b3b3b3;
+  background: #f5f6f8;
+  border-radius: 5px;
+}
+.btn-cancel-booking:hover {
+  color: #000000;
+  background: #cdcdcd;
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.25);
+}
+.input-group {
+  margin-bottom: 30px;
+}
+.text p {
+  color: #fff;
+  font-size: 28px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.image-tiket-center {
+  position: relative;
+  width: 75%;
+  height: 50%;
+  margin-left: 150px;
+}
